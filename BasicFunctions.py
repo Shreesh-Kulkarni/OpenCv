@@ -22,6 +22,5 @@ path="D:\OMEN\CR7.jpg"
 img=c.imread(path)
 kernel=np.ones((4,4),np.uint8)
 diler(img,kernel)
-a=1
 
 
